@@ -31,7 +31,7 @@ layout: default
 
         <!-- Home Post List -->
         {% for post in site.posts %}
-        {% if post.contenttype == 'blog' limit : 5 %}
+        {% if post.contenttype == 'blog' %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
