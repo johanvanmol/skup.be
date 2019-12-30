@@ -1,0 +1,16 @@
+--- 
+contenttype: portfolio
+layout: posts-portfolio
+title: Herinrichting Stationsplein, Overijse
+subtitle: 3D-visualisatie
+imgname: /assets/images/portfolio/overijse
+imgalt: SKUP portfolio afbeelding - Visualisatie Stationsplein, Overijse
+imgcount: 5
+featuredimg: 4
+---
+[Atelier JPLX][] is een Antwerps architectenbureau met een sterke focus op het ontwerp van de publieke ruimte.
+Sinds 2002 werkte Atelier JPLX verschillende ontwerpen voor het dorpscentrum van Overijse uit.
+Voor één van deze ontwerpen werden de 3D visualisaties uitgewerkt door SKUP: de herinrichting van het stationsplein.
+
+[Atelier JPLX]: http://jplx.be/HTML/home.html "Atelier JPLX"
+

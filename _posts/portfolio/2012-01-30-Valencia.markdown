@@ -1,0 +1,12 @@
+--- 
+contenttype: portfolio
+layout: posts-portfolio
+title: Appartementen en winkelruimtes, Valencia, Spanje
+subtitle: 3D-visualisatie
+imgname: /assets/images/portfolio/valencia
+imgalt: SKUP portfolio afbeelding - Visualisatie Appartementen en winkelruimtes, Valencia, Spanje
+imgcount: 5
+featuredimg: 4
+---
+In 2007 werkte Johan Van Mol (mede-oprichter van SKUP) een architectuurontwerp voor nieuwbouwappartmenten en winkelruimtes in het centrum van Valencia uit.
+Het ontwerp werd helder voorgesteld aan de hand van 3D visualisaties die niet enkel de nieuwe gebouwen weergeven, maar die ook aangeven hoe het ontwerp zich in de omgeving inpast.

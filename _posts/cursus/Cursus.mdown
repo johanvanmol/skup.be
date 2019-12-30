@@ -1,0 +1,1420 @@
+# Bijleren
+Hopelijk kan deze cursus je veel bijleren.  
+Om te beginnen wil ik graag meegeven dat SketchUp zelf ook hulpvaardig is:
+
+## 1. Statusbalk
+Wanneer je een bepaald gereedschap selecteert,  
+vertelt SketchUp steeds wat het van je verwacht.  
+Deze tips verschijnen links onderaan:
+
+{{AFBEELDING}}
+ 
+*In dit voorbeeld teken ik een cirkel.  
+SketchUp vroeg me eerst het middelpunt van de cirkel te selecteren.  
+Nu vraagt het me een randpunt te bepalen.*  
+
+## 2. Instructor
+Via **Window – Instructor** open je de Instructor.  
+Dit is eveneens een interactieve hulp.  
+De instructor toont uitgebreidere tips in verband met het gereedschap dat je selecteert.
+
+## 3. Helpfunctie
+Minder spectaculair, maar zeker het raadplegen waard.
+
+---
+
+# Navigeren
+SketchUp is een 3D programma.  
+Daarom is het van groot belang dat je op een vlotte manier leert bewegen in een 3D ruimte.  
+SketchUp bevat hiervoor 3 essentiële gereedschappen:
+
+## 1. Het ORBIT gereedschap
+{{AFBEELDING}}  
+(sneltoets o)  
+Dit gereedschap gebruik je om ergens omheen te draaien:  
+
+1. Je selecteert het gereedschap (icoon of sneltoets),  
+2. je activeert het gereedschap door ergens in de 3D ruimte met de linkermuisknop te klikken, (linkermuisknop ingedrukt houden)  
+3. en je draait door de muis van links naar rechts, of van boven naar onder te bewegen.
+
+## 2. Het ZOOM gereedschap
+{{AFBEELDING}}  
+(sneltoets z)  
+Dit gereedschap is vanzelfsprekend.  Je zoomt ermee in en uit:  
+
+1.	Je selecteert het gereedschap (icoon of sneltoets),
+2.	je activeert het gereedschap door ergens in de 3D ruimte met de linkermuisknop te klikken, (linkermuisknop ingedrukt houden)
+3.	en je zoomt door de muis naar boven en naar beneden te bewegen.
+
+## 3. Het PAN gereedschap
+{{AFBEELDING}}  
+(sneltoets h)  
+Dit gereedschap gebruik je om in de 3D ruimte naar links en naar rechts,  
+of naar boven en naar beneden te bewegen, zonder te draaien:  
+
+1.	Je selecteert het gereedschap (icoon of sneltoets),
+2.	je activeert het gereedschap door ergens in de 3D ruimte met de linkermuisknop te klikken, (linkermuisknop ingedrukt houden)
+3.	en je beweegt door de muis van links naar rechts, of van boven naar onder te bewegen.
+
+## 4. Conclusie & Voorbeeld  
+Het navigeren in 3D steunt dus op (een combinatie van) 3 gereedschappen: ORBIT, ZOOM en PAN.  
+{{AFBEELDING}}  
+Om bovenstaand model in detail te bestuderen kunnen we bijvoorbeeld:  
+
+1.	ORBIT gebruiken om rond de kast heen te draaien, zodat we de achterzijde kunnen zien.
+2.	ZOOM gebruiken om de kast van dichtbij te bekijken.
+3.	PAN gebruiken om het deel waarin we geïnteresseerd zijn centraal op het scherm te plaatsen.
+
+---
+ 
+## 5. Een snellere manier van navigeren
+Omdat navigeren zo essentieel is, is het mogelijk om alle bovenstaande gereedschappen op een snellere manier te activeren.  
+Dit is echter enkel mogelijk als je met een 3-knopsmuis werkt!  
+Alle navigatie gereedschappen kunnen namelijk geactiveerd worden met de derde (de middelste) muisknop: 
+
+{{AFBEELDING}}
+ 
+1.	**ORBIT** wordt geactiveerd door de middelste muisknop ingedrukt de houden.  Net als bij de traditionele manier draai je rond door de muis van links naar rechts, of van boven naar onder te bewegen.
+2.	**ZOOM**.  Zoomen doe je door aan de middelste muisknop (het scroll wiel) te draaien.  Naar boven draaien is inzoomen, naar onder draaien is uitzoomen.
+3.	**PAN** lijkt erg op orbit.  Ook hier houd je de middelste muiskop ingedrukt, en beweeg je met de muis.  Wel moet je om dit gereedschap te activeren, ook de Shift toets op je toetsenbord ingedrukt houden.
+(Een handig extra trucje is het dubbelklikken met de middelste muisknop.
+Door dit te doen, centreer je de tekening op het punt waar je dubbelklikt.)
+ 
+---
+
+## 6. Oefening
+
+{{AFBEELDING}}
+ 
+Voorzie bovenstaande diamant (model te downloaden via http://www.skup.be/syntra/sketchup/) van een nieuwe kleur.  
+Gebruik hiervoor het PAINT BUCKET gereedschap  , en kies een willekeurige kleur.  
+Je zal merken dat je, om elk facet in te kleuren, voortdurend moet roteren, in- en uitzoomen, … op deze manier krijg je het navigeren snel onder de knie…
+ 
+---
+
+#Construeren (inleiding)
+
+Wat SketchUp echt speciaal maakt, is de manier waarop je volumes creëert.  
+Het grote idee is dat je een vlakke basisvorm tekent om te beginnen.  
+Daarna gebruik je het PUSH/PULL gereedschap om deze vorm in 3D om te zetten.  
+Op dit volume kan je dan nieuwe vlakken tekenen, en deze uitrekken, induwen, …  
+Dit werkt als volgt:
+## Een volume creëren
+Het PUSH/PULL gereedschap wordt gebruikt om volumes te creëren, te vergroten of te verkleinen;  
+om vlakken naar boven te trekken, of naar beneden te duwen.
+
+1.	Selecteer het PUSH/PULL gereedschap.  De muisaanwijzer verandert in een blokje met een naar boven gerichte pijl.
+2.	Klik op het vlak dat je naar boven wil trekken, of naar beneden wil duwen.  
+{{AFBEELDING}}
+3.	Beweeg de muis om het volume te vergroten of te verkleinen.  
+{{AFBEELDING}}
+4.	Klik nogmaals als het volume de gewenste grootte heeft.  
+
+PUSH/PULL is slechts één van de manieren om volumes aan te maken.  
+In totaal bestaan er 3 manieren om volumes te creëren.  
+In een verder hoofdstuk leren we ze gebruiken.  
+Dit was louter een inleiding, om aan te tonen dat alles bij 2D begint.
+
+---
+ 
+## Construeren (2D)
+Een lijn is het eenvoudigste element binnen SketchUp.  
+Je tekent een lijn als volgt:
+
+### Een lijn tekenen
+Lijnen kunnen op bestaande vlakken, of los van alle bestaande geometrie getekend worden:
+
+1.	Selecteer het LIJN gereedschap.  De muisaanwijzer verandert in een potlood.
+2.	Klik om het startpunt van de lijn te definiëren.
+3.	Beweeg de muisaanwijzer naar het eindpunt van de lijn.
+Merk op dat de lengte van de lijn rechts onderaan in beeld verschijnt;
+in de Value Control Box (VCB).
+4.	Klik een tweede keer om de lijn te tekenen.  Het eindpunt van de lijn kan meteen het beginpunt van een nieuwe lijn zijn.  
+{{AFBEELDING}}
+
+### 2 tekenstijlen, slechts één goede
+Je kan in SketchUp lijnen tekenen op 2 verschillende manieren
+(dit geldt ook voor een hoop andere bewerkingen):
+
+1.	Klikken – slepen – lossen
+2.	Klikken – bewegen – klikken
+
+#### KLIKKEN – SLEPEN – LOSSEN
+Deze eerste tekenstijl houdt in dat je om een lijn te tekenen:
+
+1.	een beginpunt aanklikt
+2.	de linkermuisknop ingedrukt houdt terwijl je de muis naar een eindpunt beweegt
+3.	de linkermuisknop loslaat zodra je je op dit eindpunt bevindt.
+
+Deze tekenstijl moet je vermijden.
+Hij lijkt misschien intuïtiever (vergelijkbaar met tekenen met pen en papier),  
+maar hij is vermoeiender (linkermuisknop steeds ingedrukt houden),  
+en leidt tot meer fouten (per ongeluk te vroeg loslaten van de linkermuisknop, …).
+
+#### KLIKKEN – BEWEGEN – KLIKKEN
+Bij deze tweede tekenstijl werk je zoals eerder beschreven:
+
+1.	een beginpunt aanklikken (+ linkermuisknop meteen loslaten)
+2.	de muis naar een eindpunt bewegen
+3.	een eindpunt aanklikken.
+
+---
+ 
+### Precies tekenen
+Vaak wordt gedacht dat je in SketchUp niet nauwkeurig kan tekenen.  
+Niets is minder waar.  SketchUp moet op dit vlak zeker niet onderdoen voor AutoCAD.  
+
+### Afmetingen ingeven
+Rechts onderaan (VCB) verschijnt de lengte van een lijn terwijl je ze tekent.  
+Je kan hier zelf echter ook een lengte ingeven.  
+Typ de lengte in, net nadat je het startpunt van een lijn ingaf.
+
+### Inference – SketchUp’s intelligentie
+Hoewel SketchUp je volledig vrij laat, moedigt het programma je wel aan om nauwkeurig te tekenen.  
+Dit door constant aanwijzingen te geven.  
+Dit systeem wordt de *“inference engine”* genoemd.
+
+#### Lijn inference
+
+{{AFBEELDING}}
+
+Wanneer je lijnen tekent (of nog maar van plan bent om ze te tekenen),  
+stelt SketchUp steeds voor om ze evenwijdig aan één van de drie hoofdassen te tekenen.  Je “voelt” dit intuïtief aan.  
+Als je in de buurt van één van de hoofdrichtingen komt lijkt een soort magnetisme je aan te moedigen evenwijdig aan de as te tekenen (snapping).  
+Ook visueel krijg je tips: gekleurde lijnen duiden de as richtingen aan.  Elke as heeft een eigen kleur (groen, rood, blauw).
+
+Dit geldt trouwens niet enkel voor de hoofdassen.  Ook met bestaande lijnen wordt rekening gehouden.  Zo wordt bijvoorbeeld aangegeven dat je loodrecht op -of evenwijdig met- een bestaande lijn werkt (deze richtingen worden met een paarse lijn aangegeven).
+
+##### Tips
+
+1.	SHIFT indrukken zorgt ervoor dat je niet anders kan dan in de richting van de voorgestelde as te tekenen.
+2.	Ook met de pijltjestoetsen kan je jezelf beperken.  
+Het pijltje naar boven (of naar onder) indrukken zorgt voor een beperking in de blauwe richting,  
+het pijltje naar links of rechts in de groene of rode richting. 
+
+#### Punt inference
+
+{{AFBEELDING}}
+ 
+Ook speciale punten worden herkend als de muisaanwijzer in de buurt komt:
+eindpunten, middenpunten, …
+
+---
+
+### Vlakken creëren
+
+Het LIJN gereedschap blijft steeds actief na het tekenen van een lijn.  Het eindpunt van de lijn die je net tekende is automatisch het beginpunt van een nieuwe lijn.  Op deze manier kan je vlot blijven tekenen.  
+
+Zodra je minstens drie lijnen tekent die in hetzelfde vlak liggen, en die een lus vormen (een gesloten figuur), creëer je een vlak.
+
+{{AFBEELDING}}
+ 
+### Vlakken versus lijnen
+
+Lijnen kunnen op zichzelf bestaan.  Vlakken niet.  
+Een vlak bestaat maar zolang het omgeven is door randen.  
+Zodra je één van de omliggende randen verwijdert, heb je geen vlak meer.  
+(hoe eenvoudig of complex dit vlak ook is)  
+
+Moest je per ongeluk een vlak stukmaken, door één van zijn randen te verwijderen, is dit geen ramp.  Door de verwijderde rand opnieuw te tekenen, “geneest” het vlak (=healing).
+ 
+---
+
+### Oefening
+Teken een trap in zijaanzicht… (6 treden; elk 20cm hoog en 20cm diep).
+
+{{AFBEELDING}}
+ 
+#### Tips
+* Gebruik de juiste tekenstijl: klikken – bewegen – klikken.
+* Teken precies (afstanden intypen)
+* Let op “inferences”: teken enkel volgens de blauwe en de groen as,
+en gebruik de SHIFT toets en de pijltjestoetsen om jezelf beperkingen op te leggen.
+* Creëer een gesloten vlak.  Moest dit niet van de eerste keer lukken, kijk dan eerst na of alle lijnen wel in hetzelfde vlak liggen (blauw-groen), en of je een gesloten lus aanmaakte.
+Overtrek het geheel desnoods een tweede keer.
+* Als extra kan je het zijaanzicht achteraf een dikte geven (bijvoorbeeld 90cm) met het PUSH/PULL gereedschap.
+
+---
+
+# Construeren (3D)
+
+Een vlak in een volume omzetten kan op 3 manieren.  
+PUSH/PULL werd eerder al aangehaald.  
+Het volledige overzicht (van vaak naar minder vaak gebruikt) ziet er als volgt uit:
+
+1.  PUSH/PULL
+2.  FOLLOW ME
+3.  LINE
+
+## 1. PUSH/PULL
+
+1.	Menu … Tools – Push/Pull
+2.	Icoon
+3.	Of sneltoets P
+
+Zie pagina 5 voor de werkwijze.
+
+## 2. FOLLOW ME
+
+1.	Menu … Tools – Follow Me
+2.	Icoon
+3.	(geen standaard sneltoets beschikbaar)
+
+{{AFBEELDING}}
+
+FOLLOW ME is iets geavanceerder dan PUSH/PULL.  
+Bij PUSH/PULL trek je een vlak uit volgens een rechte lijn – loodrecht op het uit te rekken vlak.  
+Bij FOLLOW ME bepaal je zelf de richting waarin je het vlak uitrekt.  
+Dit hoeft zelfs geen rechte lijn te zijn.
+FOLLOW ME is handig om trapleuningen, kroonlijsten, … te tekenen.
+
+### Werkwijze
+
+1.	Bedenk welke lijn (of aaneenschakeling van lijnen, of krommen, …) je als pad wil gebruiken.  Dit kan bijvoorbeeld ook de rand van een vlak zijn.
+2.	Teken het vlak dat het pad zal moeten volgen.  Dit moet niet helemaal loodrecht op het pad staan, maar wel bij benadering.
+3.	Selecteer het FOLLOW ME gereedschap.  De muisaanwijzer verandert in een cilinder met een kromme pijl.
+4.	Klik op het vlak dat je net tekende.
+5.	Sleep de muisaanwijzer langs het pad.  SketchUp markeert het pad dat je volgt rood.
+6.	Klik een tweede maal om een eindpunt aan te geven.
+
+Een VLAK, en een rand van de cilinder als PAD  
+{{AFBEELDING}}
+
+Halverwege het PAD  
+{{AFBEELDING}}
+
+Het voltooide FOLLOW ME commando  
+{{AFBEELDING}}
+ 	 	 
+## 3. LINE
+
+Sommige volumes zijn zo asymmetrisch of willekeurig dat bovenstaande methodes niet meer voldoen.  Daarom is het van belang te weten dat je niet beperkt bent tot tekenen op het grondvlak.  Je kan in alle mogelijk richtingen tekenen (INFERENCE is van belang), en op die manier lijn per lijn (of vlak per vlak) elk gewenst volume modeleren.
+
+### Voorbeeld
+
+Een LIJN tekenen als hoogte  
+{{AFBEELDING}}
+
+Het eerste zijvlak handmatig tekenen  
+{{AFBEELDING}}
+
+De overige zijvlakken afwerken  
+{{AFBEELDING}} 	 	 
+
+---
+
+## Oefeningen
+
+### PUSH/PULL
+teken een rechthoek van 5m x 5m; geef hem een hoogte van 2,5m.
+
+### FOLLOW ME
+teken, loodrecht op een van de bovenste zijden van dit volume de doorsnede van een kroonlijst, en gebruik FOLLOW ME om deze doorsnede langsheen alle bovenste zijden van het volume te slepen, en er op die manier een volume van te maken…
+
+{{AFBEELDING}}
+
+### LINE
+probeer een zadeldak te tekenen, ZONDER gebruik te maken van PUSH/PULL of FOLLOW ME.
+
+### Tips
+* Teken eerst een rechthoek.
+* Teken in het middelpunt van één van de korte zijden een lijn die loodrecht op deze rechthoek staat (m.a.w.: volgens de blauwe as).  Herhaal dit op de andere korte zijde.
+* Verbind de bovenste punten van de lijnen met de juiste hoekpunten van de rechthoek.
+
+{{AFBEELDING}}
+
+---
+
+# Selecteren
+Nadat je een object creëerde, wil je er vaak nog iets aan veranderen, wil je het verfijnen, wijzigen, …
+Daarom is het belangrijk dat je bestaande elementen kan selecteren.
+
+## SELECT gereedschap
+
+Je kan het SELECT gereedschap op 3 manieren oproepen:
+
+1.  Door op het icoon in de Tool Set te klikken
+2.	Via het menu: **Tools – SELECT**
+3.	Via de sneltoets: spatie
+
+De 2 basiselementen in SketchUp (lijnen & vlakken) geven elk op hun eigen manier aan dat ze geselecteerd zijn:
+
+Een geselecteerde lijn kleurt blauw.  
+{{AFBEELDING}}
+
+Een geselecteerd vlak wordt voorzien van een blauwe stippel-arcering.  
+{{AFBEELDING}}
+
+Merk op dat je met het SELECT gereedschap standaard maar één element tegelijkertijd selecteert.
+Met andere woorden: als je een vlak geselecteerd hebt, en je klikt met het SELECT gereedschap op een tweede vlak, dan wordt het tweede vlak geselecteerd, maar is het eerste **niet meer** geselecteerd.
+
+## Meerdere elementen selecteren: SHIFT select
+
+Om meerdere elementen te selecteren, moet je SHIFT ingedrukt houden terwijl je elementen aanklikt met het SELECT gereedschap.
+De muisaanwijzer ziet er dan anders uit; het zwart pijltje wordt van een plus- en een minteken voorzien.
+Op deze manier kan je elementen aan je selectie toevoegen,
+maar ook elementen uit je selectie verwijderen.
+
+---
+
+## Vensterselecties
+
+Met het SELECT gereedschap is het ook mogelijk om een venster rond een aantal elementen te slepen, en ze op die manier allemaal te selecteren.
+
+Let op: er bestaat een subtiel verschil tussen 2 manieren van selecteren:
+
+1.	Indien je je venster van links naar rechts sleept, worden enkel die elementen die volledig binnen het venster vallen geselecteerd.
+2.	Indien je je venster van rechts naar links sleept, worden ook de elementen die gedeeltelijk binnen het venster vallen geselecteerd.
+
+## Geavanceerde selectiemethodes
+ 
+{{AFBEELDING}}
+
+Door rechts te klikken op een object, kan je in het SELECT contextmenu een aantal geavanceerde selectiemethodes vinden.
+Ik stel voor dat je ze allemaal even uitprobeert.
+Let op: dit menu verandert naargelang je rechtsklikt op een lijn, een vlak, een groep, een component, …
+Op deze manier kan je bijvoorbeeld snel een vlak en alle omringende randen selecteren, …
+
+## Sneller geavanceerd selecteren
+
+Voorgaande selectiemethodes zijn enorm handig, maar helaas omslachtig te activeren (rechtsklikken, …).
+Daarom kan je ook geavanceerde selectiemethodes gebruiken door te dubbelklikken of drie-dubbelklikken.  Ook dit is iets wat je best kan uitproberen.
+
+Dubbelklikken op een vlak selecteert het vlak en alle omringende randen,
+drie-dubbelklikken op een vlak selecteert alles dat aan het vlak grens (3D), …
+
+---
+
+# Organiseren – deel 1
+
+Om efficiënt te kunnen werken, is het van belang dat je een tekening goed organiseert.  Zo wordt het achteraf makkelijker om dingen te selecteren, te kopiëren, te verplaatsen, …
+
+SketchUp bevat 3 hulpmiddelen om tekeningen te organiseren:
+
+1.	Groepen --- GROUP
+2.	Componenten --- COMPONENT
+3.	Lagen --- LAYERS
+
+Voorlopig beperken we ons tot groepen.
+De andere organisatiehulpmiddelen komen later aan bod.
+
+## 1. Groepen
+Het eerste en eenvoudigste organisatiehulpmiddel.
+
+### Groepen aanmaken
+Om een groep aan te maken selecteer je eerst een aantal elementen (lijnen en vlakken).  
+Vervolgens:
+
+1.	Kies je in het menu … **Edit - Make group**
+2.	Of klik je op de **rechtermuisknop** (rechtsklikken) en selecteer je **make group**
+
+Zodra je dit doet, verschijnt er een balk rond je selectie:
+
+Een piramide die volledig geselecteerd is (let op de blauwe randen, en de blauwe puntjes op de vlakken).  
+{{AFBEELDING}}
+
+Dezelfde piramide als groep.  Ook nu is hij geselecteerd (let op de blauwe balk rond de piramide).  
+{{AFBEELDING}}
+
+#### Voordeel 1: makkelijker selecteren
+Om de piramide te selecteren moest je voordien 4 vlakken en 8 randen (12 elementen) selecteren.  
+Nu volstaat het om 1 element (de groep te selecteren) = 1 keer klikken.
+ 
+#### Voordeel 2: onafhankelijke objecten
+
+##### LOSSE ELEMENTEN = afhankelijk	
+In SketchUp heeft  alles invloed op alles.  Elementen kleven aan mekaar.  
+{{AFBEELDING}}	
+ 	 
+Als je twee piramides naast elkaar plaats, en je probeert er nadien één te verplaatsen, zal je merken dat beide piramides aan elkaar kleven, en dat er allerlei geometrie begint te vervormen.  
+{{AFBEELDING}}
+
+##### GROEPEN = onafhankelijk
+Groepen zijn echter volledig onafhankelijk van de rest van de tekening.  
+{{AFBEELDING}}
+
+Wanneer je dezelfde situatie herhaalt met 2 groepen, zal je merken dat de 2 piramides wél netjes onveranderd blijven.  
+{{AFBEELDING}}
+
+---
+
+### Groepen bewerken
+Betekent dit dan dat een groep voorgoed los staat van de rest van de tekening?
+
+Neen, dubbelklikken op een groep opent de groep:  
+je komt dan in de groep terecht, en kan alles bewerken zoals je het net leerde.
+
+Een open groep wordt omgeven door een balk in stippellijn:  
+{{AFBEELDING}}
+ 
+Om de groep terug te sluiten druk je op ESCAPE, of klik je ergens buiten de groep.
+ 
+### Groepen exploderen
+Wanneer je de groep terug zou willen omzetten in losse elementen,
+kan je rechtsklikken en EXPLODE kiezen:  
+{{AFBEELDING}}
+ 
+Dit lukt ook via het menu: **Edit – Group - Explode**
+
+---
+
+# Manipuleren
+We weten nu hoe we objecten construeren, selecteren en organiseren.
+
+Om modellen te bouwen moeten echter ook objecten kunnen manipuleren:
+
+1.	Verplaatsen en kopiëren: het MOVE/COPY gereedschap
+2.	Roteren: het ROTATE gereedschap
+3.	Verschalen en spiegelen: het SCALE gereedschap
+
+## 1. Het MOVE/COPY gereedschap - Verplaatsen en kopiëren
+(Icoon, sneltoets M of Menu…Tools – MOVE)
+
+MOVE/COPY is vrij vanzelfsprekend:
+
+1.	Je selecteert een object dat je wil verplaatsen
+2.	Je selecteert vervolgens het MOVE gereedschap
+3.	Je duidt aan welke verplaatsing je wil bekomen:  
+eerste klik = beginpunt, tweede klik = eindpunt
+
+Wat minder vanzelfsprekend, en dus belangrijk is:
+
+1.	Net als bij het tekenen van lijnen, kan je bij het move gereedschap gebruik maken van SketchUp’s INFERENCE.
+Ook kan je exacte afstanden intypen.
+2.	**Het MOVE/COPY gereedschap kan ook kopiëren!!!**  
+Hiervoor moet je tijdens het verplaatsen de CTRL toets ingedrukt houden.  
+Doordat de kopiëerfunctie achter de verplaatsfunctie verscholen zit, zien veel mensen ze over het hoofd…  
+
+---
+
+## 2. Het ROTATE gereedschap - roteren
+(Icoon, sneltoets Q of Menu…Tools – ROTATE)  
+ROTATE lijkt op MOVE/COPY:
+
+1.	Je selecteert een object dat je wil roteren
+2.	Je selecteert vervolgens het ROTATE gereedschap
+3.	Er verschijnt een soort gradenboog (de protractor):  
+Je duidt aan welke hoekverdraaiing je wil bekomen:  
+eerste klik = centrum van de rotatie, tweede = beginpunt, derde = eindpunt.
+
+Tips:
+
+1.	Je kan de hoek van de rotatie exact intypen.
+2.	Door CTRL in te drukken kan je ook met dit gereedschap objecten kopiëren.
+
+## 3. Het SCALE gereedschap - verschalen
+(Icoon, sneltoets S of Menu…Tools - SCALE)  
+SCALE werkwijze:
+
+1.	Je selecteert een object dat je wil verschalen
+2.	Je selecteert vervolgens het SCALE gereedschap
+3.	Er verschijnen een aantal verschalingspunten op je object.  
+Door deze te verslepen, verschaal je het object.
+
+Tips:
+
+1.	Verschalen kan een object vervormen (verhoudingen wijzigen).
+Om dit te vermijden verschaal je met behulp van hoekpunten,
+of houd je de SHIFT toets ingedrukt.
+2.	Als je CTRL indrukt, verschaal je een object rond z’n middelpunt.
+3.	Je kan de verschalingsfactor exact intypen.  
+Om te spiegelen geef je als factor -1 in.
+
+---
+ 
+## Oefening
+{{AFBEELDING}}
+
+Vertrek van één Lego-blokje (model te downloaden via http://www.skup.be/syntra/sketchup/),  
+en probeer de hierboven afgebeelde structuur na te bouwen.
+
+Tips:
+
+* Gebruik het MOVE/COPY gereedschap om het Lego-blokje te kopiëren
+(CTRL-toets indrukken).
+* Let op de “midpoint inference” om een blokje bovenop een ander blokje te plaatsen.
+Eén van de onderste hoekpunten van het ene blokje moet op één van de bovenste middenpunten van het andere blokje geplaatst worden.
+* Gebruik het ROTATE gereedschap om een blokje te verdraaien.  Typ een hoek van 90 graden in om precies te werken, of let heel goed op de inference hulp.
+
+---
+
+# SketchUp: een woning van A-Z
+
+## (Inleiding) Eenheden instellen.
+Kies **Window – Preferences**.
+Het instellingen menu verschijnt.
+Onder de optie template (of units) kan je aangeven in welke eenheden je wil tekenen.
+Wij kiezen voor millimeters, bestemd voor architectuurmodellen.
+
+## (Inleiding) Een AutoCAD tekening importeren (dwg of dxf bestand)
+Kies **File – Import…** in het menu.
+
+{{AFBEELDING}}
+
+Volgend venster wordt geopend:
+
+{{AFBEELDING}}
+
+Stel het **“formaat”** in op ACAD Files (*.dwg, *.dxf),
+en selecteer de tekening die je wil importeren.
+
+(de tekening uit dit voorbeeld kan zoals steeds gedownload worden via http://http://www.skup.be/syntra/sketchup/)
+
+Vergeet niet om onder **Options…** aan te geven in welke eenheden je je AutoCAD tekening uittekende… (de voorbeeld-tekening werd in millimeters uitgetekend).
+Op die manier moet je achteraf niet aan de schaal gaan knoeien.
+
+{{AFBEELDING}}
+
+Zodra je op **Import** klikt (uiteraard eerst op **OK** klikken als je opties wijzigde),
+verschijnt er een voortgangsbalk, en zodra het importeren afgerond is,
+verschijnt er een soort rapport (klik gewoon op **OK**):
+
+{{AFBEELDING}}
+
+De AutoCAD tekening is nu geïmporteerd:
+
+{{AFBEELDING}}
+
+### Enkele bemerkingen:
+
+* Als je de geïmporteerde tekening niet direct ziet, ben je misschien te dicht ingezoomd, of te ver uitgezoomd… 
+Klik op  ZOOM EXTENTS (of shift + z) om alles correct in beeld te krijgen…
+* Een geïmporteerde tekening komt standaard in het grondvlak (xy-vlak) te liggen…
+* SketchUp herkent alle AutoCAD geometrie: je kan lijnen selecteren, SketchUp’s inference herkent eindpunten, middenpunten, …  Kortom: een ideale samenwerking.
+
+## (Inleiding) Een SketchUp model baseren op een AutoCAD tekening.
+Nu je de tekening importeerde, en nu je weet dat SketchUp zo vlot omgaat met de geïmporteerde tekening, kan je AutoCAD lijnen beginnen overtrekken (met het LINE gereedschap), zodat er vlakken ontstaan, die je op hun beurt kan omzetten in volumes (  met het PUSH/PULL gereedschap).
+
+{{AFBEELDING}}
+
+### Opmerking
+Selecteer alvorens hieraan te beginnen de volledige AutoCAD tekening, en maak er een groep van.  Als je dit niet doet, zal je voor een hoop onaangename verrassingen komen te staan!!!
+(zoals steeds het geval is, als je onvoldoende groepen gebruikt…).
+
+---
+
+# De woning
+Na de AutoCAD inleiding volgt nu een voorbeeld waarbij we vertrekken van een JPEG afbeelding als onderlegger.  
+Dit voorbeeld zullen we verder uitwerken.  
+De samenwerking tussen een afbeelding en SketchUp is namelijk minder intelligent dan die tussen AutoCAD en SketchUp, waardoor we zelf meer werk moeten verrichten, en we dus meer bijleren…
+
+## 1. Eenheden instellen.
+Kies **Window – Preferences**.  
+Het instellingen menu verschijnt.  
+Onder de optie template kan je aangeven in welke eenheden je wil tekenen.  
+Wij kiezen voor millimeters, bestemd voor architectuurmodellen.
+
+## 2. Een JPEG onderlegger importeren.
+Via **File – Import** kunnen we een onderlegger invoeren.
+Verschillende bestandstypes komen hiervoor in aanmerking:
+
+* CAD tekeningen
+* Afbeeldingen (JPEG, TIF, …)
+
+Het is belangrijk dat je onderaan aangeeft welk bestandtype je wil importeren:
+
+{{AFBEELDING}}
+ 
+Als je bijvoorbeeld AutoCAD bestanden als type selecteerde, verschijnen er enkel AutoCAD bestanden in het selectievenster!
+
+Kies als onderlegger volgende afbeelding (een JPEG bestand): onderlegger.JPEG
+(te vinden op http://www.skup.be/syntra/sketchup/)
+
+Wanneer je op openen klikt, hangt de gekozen afbeelding aan de muisaanwijzer.
+Een eerste keer klikken bepaalt de positie van de afbeelding, een tweede keer klikken bepaalt de grootte…
+ 
+## 3. De onderlegger verschalen.
+Je gaf zonet de grootte van de onderlegger aan door een tweede keer te klikken.
+Deze kan echter niet op het zicht bepaald worden en klopt dus niet.
+
+We zullen de onderlegger moeten verschalen om hem op de juiste schaal af te stemmen.
+Dit doe je als volgt:
+
+1.	Vertrek van een afmeting die je kent, bijvoorbeeld een deuropening die meestal 900mm breed is.
+2.	Vervolgens moet je deze afmeting nameten.  Dit doe je met behulp van het TAPE MEASURE gereedschap (sneltoets T of menu … Tools – TAPE MEASURE).  
+Klik op het beginpunt, en vervolgens op het eindpunt van de gekende afmeting.  
+Rechts onderaan in beeld verschijnt de lengte van de lijn.  
+{{AFBEELDING}}
+3.	Door nu direct de lengte in te typen die de lijn zou moeten hebben,
+verschaalt de lijn (en als gevolg het hele model):  
+Typ 900 in.  SketchUp vraagt of het hele model verschaald mag worden.
+Dit was onze bedoeling, dus antwoorden we ja.  
+{{AFBEELDING}} 
+
+---
+ 
+## 4. Muren tekenen.
+Nu de onderlegger geïmporteerd werd, en nu hij verschaald werd, kunnen we ons erop baseren om de muren van de woning te tekenen…
+
+Gebruik hiervoor het LINE gereedschap, en houd rekening met SketchUp’s INFERENCE.
+
+{{AFBEELDING}} 
+ 
+## 5. Muren een hoogte geven.
+Gebruik PUSH/PULL om de muren de juiste hoogte te geven.  In ons geval 2500mm:
+
+1.	PUSH/PULL selecteren
+2.	Het grondvlak dat je een hoogte wil geven aanklikken
+3.	De muis in de juiste richting bewegen (grondvlak naar boven uitrekken)
+4.	De juiste hoogte intypen (2500mm) en op ENTER drukken
+
+{{AFBEELDING}}
+
+## 6. Herhaal: muren tekenen en uitrekken…
+
+{{AFBEELDING}}
+ 
+*Tip: je hoeft niet steeds de hoogte van de muren in te typen:
+SketchUp onthoudt de laatst ingegeven hoogte.
+Wanneer je PUSH/PULL gebruikt, en je dubbelklikt met dit gereedschap op een vlak,
+dan gebruikt SketchUp de laatst ingegeven hoogte!*
+
+Op deze manier kunnen we snel alle buitenmuren tekenen…
+
+{{AFBEELDING}}
+
+## 7. Borstweringen tekenen.
+Niet alle openingen lopen van vloer tot plafond.  
+Daarom moeten we op sommige plaatsen borstweringen tekenen (hoogte 1000mm).
+
+Ook dit doen we op dezelfde manier:
+
+1.	Een grondvlak tekenen met het LINE gereedschap of het RECTANGLE gereedschap… het RECTANGLE gereedschap werkt in dit geval sneller.
+2.	Het vlak uitrekken (1000mm) met het PUSH/PULL gereedschap.
+
+{{AFBEELDING}}
+ 
+## 8. Lateien tekenen
+Ook bovenaan lopen de ramen niet altijd volledig door.  
+Op verschillende plekken tekenen we daarom lateien: 500 of 1000mm hoog:
+
+{{AFBEELDING}}
+
+## 9. Muurdelen samenvoegen (overtollige lijnen verwijderen).
+Tussen de muurdelen van vloer tot plafond, en de borstweringen en lateien staan momenteel nog overtollige lijnen.
+
+We kunnen de overtollige lijnen gewoon selecteren en verwijderen…
+(SHIFT indrukken om meerdere lijnen tegelijk te selecteren).
+
+Nadien selecteren we elke muur, er maken we er een groep van.
+
+{{AFBEELDING}}
+
+{{AFBEELDING}}
+
+## 10. Binnenmuren tekenen.
+Zelfde werkwijze.
+
+---
+
+## 11. Het vlinderdak tekenen – linkerhelft.
+Dit doen we in 8 stappen (per dakhelft):
+
+1.	RECTANGLE Een RECTANGLE boven de linkerhelft van het gebouw tekenen.
+2.	PUSH/PULL Deze rechthoek een hoogte van 300mm geven met het PUSH/PULL gereedschap.
+3.  GROUP Een groep van dit volume maken  
+{{AFBEELDING}}
+4.	ROTATE Deze groep verdraaien over een hoek van 7 graden.  
+{{AFBEELDING}}
+5.  PUSH/PULL  Een oversteek van 900mm realiseren
+6.  LINE De driehoek onder de linkerdakhelft in profiel tekenen
+7.  PUSH/PULL Deze driehoek dmv PUSH/PULL uitrekken over de gehele breedte van de woning.  
+{{AFBEELDING}}
+8.  GROUP Een groep van dit volume maken
+
+## 12. Het vlinderdak tekenen – rechterhelft.
+Herhaal bovenstaande stappen om ook de rechterhelft van het dak te tekenen…
+
+{{AFBEELDING}}
+
+---
+
+## 13. Een raam/deur tekenen
+
+1.  Teken een vlak in één van de raamopeningen.  
+{{AFBEELDING}}
+2.  Gebruik het OFFSET gereedschap om de randen van dit vlak 50mm naar binnen toe te kopiëren.  
+{{AFBEELDING}}
+3.  Breng eventueel onderverdelingen aan (LINE gereedschap)  
+{{AFBEELDING}}
+4.  Verwijder de ‘glasvlakken’, zodat enkel het raamkader blijft bestaan  
+{{AFBEELDING}}
+5.  Gebruik het PUSH/PULL gereedschap om het raamkader een dikte van 50mm te geven  
+{{AFBEELDING}}
+6.  Selecteer alles, en maak een groep (of een component) van het raam  
+{{AFBEELDING}}
+7.  Verplaats het raam naar achter, zodat het dieper in de gevel komt te liggen  
+{{AFBEELDING}}
+8.  Kopiëer het raam naar de andere raamopeningen die even groot zijn.  
+{{AFBEELDING}}
+
+---
+
+## 14. De woning inrichten
+Via **window-components** open je een venster waarin je verschillend componenten terugvindt (meubilering, figuren, …).
+
+Deze kan je in de tekening plaatsen om de woning in te richten…
+
+Op internet (http://sketchup.google.com/3dwarehouse/) kan je quasi elk model dat je zoekt terugvinden…
+
+---
+
+# 15. Het model interactief verkennen (interactieve camera gereedschappen).
+We leerden al werken met ORBIT, ZOOM en PAN.  
+Dit zijn de basis cameragereedschappen.  
+Je kan ze alle drie activeren met de middelste muisknop,  
+en we gebruiken ze voortdurend wanneer we tekenen.
+
+Naast deze 3 basisgereedschappen bestaan er ook 3 interactieve gereedschappen:
+
+1.  POSITION CAMERA
+2.  WALK
+3.  LOOK AROUND
+
+## 1. POSITION CAMERA
+Hiermee geef je het punt aan waar je de camera wil plaatsen.
+(ooghoogte= +/- 1,7 meter).
+Met dit gereedschap kijk je naar het model vanuit het standpunt van een persoon, en lijkt het model realistischer.
+
+## 2. WALK
+Nadat je je standpunt bepaalde met het POSITION CAMERA gereedschap, kan je beginnen rondlopen.  Hiervoor selecteer je het WALK gereedschap, en gebruik je de pijltjes op het toetsenbord.
+(Je kan de muis ook gebruiken om te navigeren, maar dat is minder handig.)
+
+## 3. LOOK AROUND
+Door dit gereedschap te selecteren, de linkermuisknop ingedrukt te houden en de muis te bewegen, kan je rondkijken.
+
+---
+
+## SECTION PLANE
+Je kan met dit gereedschap door je model “snijden”, om snedes, plannen, … aan te maken.
+
+Je selecteert dit gereedschap onderaan in de “Large Tool Set”, of via het menu:
+**Tools – section plane**.
+
+Zodra dit gereedschap geactiveerd werd, hangt er een groen snedevlak aan de muisaanwijzer…
+Je kan dit op gelijk welk vlak (in gelijk welke richting) plaatsen door op het gewenste vlak te klikken…
+
+{{AFBEELDING}}
+ 
+Zodra je dit doet, wordt het snedevlak op het model geplaatst, zie je een snede, en kleurt het snedevlak oranje.
+
+{{AFBEELDING}}
+
+Je kan het snedevlak nadien makkelijk selecteren en verplaatsen met het MOVE gereedschap…
+
+{{AFBEELDING}}
+
+### Enkele opties
+Rechtsklikken op een snedevlak opent een menu met verschillende opties:
+
+{{AFBEELDING}}
+
+*  HIDE – verbergt het snedevlak.  De snede blijft actief, maar het snedevlak op zich (rand + 4 pijlen) wordt onzichtbaar.
+* REVERSE – draait de ‘kijkrichting’ van de snede om.
+* ACTIVE CUT – activeert of deactiveert de snede.  Het snedevlak blijft echter steeds bestaan.  Dubbelklikken op een snede heeft hetzelfde effect: activeren/deactiveren van de snede.
+* ALIGN VIEW – zorgt ervoor dat de camera loodrecht op de snede kijkt.
+(als je de camera tevens op ‘parallell projection’ ipv ‘perspective’ instelt, bekom je traditionele snedes… in de professionele versie is het zelfs mogelijk om deze snedes te exporteren naar bijvoorbeeld AutoCAD)
+* CREATE GROUP FROM SLICE – genereert een 2D snede (groep).
+
+---
+
+## 16. Standaard zichten
+Binnen SketchUp bestaan er een aantal standaardzichten.
+Je activeert ze in de Views Toolbar, via het camera menu of door middel van sneltoetsen (SHIFT + een cijfer).
+Van links naar rechts gaat het om volgende zichten:
+ 
+1.	Isometric
+2.	Top
+3.	Front
+4.	Right
+5.	Back
+6.	Left
+
+*Tip: als je het perspectief uitzet, door in het camera menu “parallel projection” in plaats van “perspective” te kiezen, kan je deze standaard zichten gebruiken om plannen, aanzichten, snedes, … aan te maken.*
+
+---
+
+## 17.Meten is weten
+Tijdens het tekenen kunnen we voor elke lijn, voor elk vlak, voor elke bewerking een precieze afmeting ingeven…
+
+Wat als we nadat we iets tekenden een afmeting willen opmeten?
+
+### 1. Lengtes
+
+#### a. Het TAPE MEASURE gereedschap (T) en het LINE gereedschap (L)
+Wanneer je met één van deze twee gereedschappen een lengte opmeet (eerst beginpunt aanklikken, vervolgens eindpunt aanklikken), verschijnt de lengte rechts onderaan in beeld *(in de VCB – Value Control Box)*.
+
+Wanneer je het TAPE MEASURE gereedschap gebruikt, verschijnt de lengte ook even naast de muisaanwijzer…
+
+{{AFBEELDING}}
+
+Deze manier van meten verandert de tekening dus niet.
+
+#### b. Het DIMENSION gereedschap
+Wanneer je het DIMENSION gereedschap gebruikt, worden er maatlijnen in de tekening geplaatst (de tekening verandert hierdoor dus wel…).
+
+Je plaatst maatlijnen door
+
+1.	hun beginpunt aan te klikken
+2.	hun eindpunt aan te klikken
+3.	de afstand tussen het gemeten element en de maatlijn aan te geven  
+(=derde keer klikken)  
+{{AFBEELDING}}
+ 
+### 2. Oppervlaktes
+Door een vlak te selecteren,
+er met de rechtermuisknop op te klikken,
+en op **entity info** te klikken in het contextmenu dat op deze manier verschijnt,
+kan je de oppervlakte van het geselecteerde vlak nazien:
+
+{{AFBEELDING}}
+ 
+### 3. Volumes, Inhouden, …
+Deze kunnen standaard NIET gemeten worden door SketchUp.
+Door een plug-in te installeren wordt dit wel mogelijk: VolumeCalculator.rb.
+
+Dit is vrij omslachtig (plug-in te vinden op http://www.skup.be/syntra/sketchup/).
+
+{{AFBEELDING}}
+
+{{AFBEELDING}}
+  
+*(cu.m staat voor cubic metre / kubieke meter)*
+
+---
+
+# Presentatie
+## Materialen
+### Materialen toekennen
+Nu het gebouw in grote lijnen uitgetekend werd, kunnen we materialen toekennen om een realistischer uiterlijk te bekomen.
+
+Hiervoor gebruiken we een nieuw gereedschap: het PAINT BUCKET gereedschap.
+
+Wanneer je dit gereedschap aanklikt, opent SketchUp z’n materialenbibliotheek.
+(ook bereikbaar via window-materials).
+
+Rechts bovenaan bevindt zich een menu waarin je een materiaal-categorie kan selecteren.  In de bibliotheek zelf selecteer je het materiaal dat je wil gebruiken.
+
+{{AFBEELDING}}
+ 
+Wanneer je een materiaal selecteert, verandert de cursor in een verfemmer, en kan je vlakken (of selecties, of groepen, of …) beginnen “inkleuren” door er op te klikken.
+
+*Tip: Als je een groep (of een component) aanklikt, worden alle vlakken binnen die groep ingekleurd!*
+
+{{AFBEELDING}}
+
+We kennen het materiaal **fencing_weathered (fencing collectie)** toe aan al onze groepen.
+Enkel de 2 dakhelften krijgen een ander materiaal: donkergrijs: **color_007 (colors collectie)**.
+
+Doordat we bij het aanklikken van de groep alle vlakken binnen deze groep van hetzelfde materiaal hebben voorzien, ontstond er een klein probleem:  ook het plafond en alle binnenkanten van de muren zijn nu van een houttextuur voorzien.
+
+{{AFBEELDING}}
+
+Dit kan je makkelijk recht zetten door de groepen te openen (dubbelklikken) en het vlak aan de binnenzijde van een witte kleur te voorzien (PAINT BUCKET gereedschap).
+
+**Opmerking**: SketchUp kent een soort hiërarchie bij het toekennen van materialen:
+De meest specifieke beschrijving krijgt steeds voorrang.  Het inkleuren van een vlak is specifieker dan het inkleuren van een volledige groep, en krijgt dus voorrang…
+
+**Voorbeeld**:
+ 	 
+Geef één vlak van een kubus een groene kleur.
+Selecteer nadien de volledige kubus en maak er een groep van.
+
+{{AFBEELDING}}
+
+Als je vervolgens deze groep een blauwe kleur geeft, zal je zien dat heel de groep blauw kleurt, behalve het groen gekleurde vlak.  Dit blijft gewoon groen.
+
+{{AFBEELDING}}
+
+---
+ 
+### Nieuwe materialen creëren
+Om een nieuw materiaal aan te maken klik je op volgend icoon:.
+
+*(Let op: als je dit niet doet, pas je een bestaand materiaal aan!)*
+
+Het bestaande materiaal blijft op deze manier bestaan, maar er wordt een kopie gemaakt die je kan aanpassen.
+
+#### Materialen aanpassen
+
+{{AFBEELDING}}
+
+De kans dat SketchUp’s standaard materialen steeds aan ieders eisen voldoen is vrij klein.  Daarom is het mogelijk om materialen aan te passen.  Zodra je een materiaal in je model hebt gebruikt, kan je onder de “edit” tab een aantal instellingen aanpassen…
+
+1.	**COLOR**
+laat je toe om de kleur van een materiaal aan te passen.
+Het menu laat je toe met verschillende kleurmodellen te werken.
+De twee icoontjes rechtsboven laten je toe je te baseren op een kleur in je model, of ergens op je scherm.
+2.	**TEXTURE**
+Hier stel je in of je al dan niet met een textuur wil werken,
+geef je aan welke afbeelding je als textuur wil gebruiken,
+geef je de schaal van een textuur in, …
+(opgelet: als je “use texture image” uitvinkt, volstaat het opnieuw aanvinken niet om de textuur terug op te roepen.  Je zal hem zelf terug moeten opzoeken…)
+3.	**OPACITY**
+Hier geef je aan hoe doorzichtig je materiaal moet zijn.
+100% is volledig ondoorzichtbaar; 0% is volledig doorzichtbaar.
+
+#### De plaatsing van een materiaal aanpassen.
+Soms moet een tegelpatroon precies in de hoek van een kamer beginnen, of moet een muurtje uit exact 10 bakstenen bestaan, … Materialen kunnen tot op dit detailniveau aangepast worden in SketchUp.  We bekijken hoe we dit doen aan de hand van een oefening: het plaatsen van een foto in een fotokader.
+
+1.	Open “fotokader.skp” (beschikbaar via http://www.skup.be/syntra/sketchup/).
+De foto van de puppy moet perfect in het fotokader passen.  
+{{AFBEELDING}}
+2.	Wanneer we rechtsklikken op de foto, kunnen we in het contextmenu kiezen voor Texture > Position.
+Er verschijnen nu een aantal pinnetjes op de foto die ons toelaten de foto te bewerken.  Via het rode pinnetje kunnen we de foto verplaatsen, via het groene pinnetje kunnen we hem roteren en verschalen, …  
+{{AFBEELDING}}
+3.	Je kan eventueel ook rechtsklikken, en de optie “fixed pins” uitvinken.  Dan hebben alle pinnetjes dezelfde functie; namelijk de positie van een hoekpunt bepalen:  
+{{AFBEELDING}}
+
+---
+
+#Schaduw (en mist)
+Via het **View menu** kan je shadow en/of fog aan- of uitzetten om je model er realistischer te doen uitzien.
+
+{{AFBEELDING}}
+
+Je kan eveneens een shadow en/of fog instellingenvenster openen via:
+
+* **Window-shadows**
+* **Window-fog**
+
+{{AFBEELDING}}
+
+De instellingen zijn vrij vanzelfsprekend:
+
+1.	Schaduw: aan/uit – tijd instellen – datum instellen
+2.	Mist: aan/uit – mistinstellingen – mistkleur
+
+*Tip: Wanneer je realistische schaduwstudies wil maken, moet je ook de locatie en oriëntatie van je model instellen.*
+
+Dit doe je als volgt:
+
+1.	Kies Window-Model info.
+2.	Vink “Use georeferencing” aan
+3.	Onder “location” kies je je land en stad
+4.	Daarna klik je op de ‘select’ knop onder “solar orientation”
+5.	In je model geef je vervolgens de richting van de noordpijl aan.
+
+{{AFBEELDING}}
+ 
+Als je een Google Earth gebruiker bent, kan je de locatie van een model ook opzoeken in Google Earth, en deze doorgeven aan SketchUp via het menu:
+
+**Tools  > Google Earth > Get Current View**
+
+SketchUp importeert dan een afbeelding uit Google Earth als onderlegger, en stelt de locatie van je model automatisch in.
+
+{{AFBEELDING}}
+
+---
+ 
+# Visuele stijlen (rendering)
+Uitproberen is hier de boodschap!
+
+Via het menu **view – Edge Style**, kan de weergave van lijnen aangepast worden.
+
+{{AFBEELDING}}
+ 
+Net onder **Edge Style**, via hetzelfde menu kan je ook de **Face Style** aanpassen.
+
+{{AFBEELDING}}
+ 
+Tenslotte kan je via **Window – Styles** volgend venster openen:
+
+{{AFBEELDING}}
+
+---
+
+# Zichten exporteren
+Ondertussen hebben we zowat alle camera gereedschappen en grafische instellingen bekeken.
+Maar wat als we een zicht willen opslaan?
+
+Dat doe je via het menu: **File – export – 2D graphic…**
+
+Vervolgens geef je een bestandsnaam en een locatie in,
+kies je een afbeeldings-formaat (waarvan je indien gewenst ook enkele opties kan instellen), en klik je op **export**.
+Enkele seconden later verschijnt de afbeelding op de gekozen locatie.
+
+---
+
+# Scenes & animatie
+
+## Inleiding
+
+We hebben net een zicht geëxporteerd. 
+Stel dat we beslissen om ons model nog wat uit te breiden, en even later exact hetzelfde zicht opnieuw willen exporteren.
+Dat vraagt heel wat werk: de camera opnieuw instellen, de schaduw en mist instellingen opnieuw regelen, …
+
+Gelukkig kunnen we dit extra werk vermijden door SCENES aan te maken.
+Scenes zijn vergelijkbaar met camera’s, maar dan slimmer.  Ze onthouden de manier waarop je naar een 3D-model kijkt: vanuit welk standpunt, met welke schaduwinstellingen, …
+
+Samengevat:
+
+1.	Sparen Scenes tijd uit bij het aanmaken van zichten (instellingen blijven bewaard)
+2.	Kunnen ze gebruikt worden om te presenteren (verschillende standpunten, verschillende ontwerpopties, …)
+3.	Zullen ze de basis vormen voor animaties (schaduwstudies, walkthrough, …)
+
+## Scenes aanmaken
+*(Opmerking: Scenes hebben geen invloed op de bestandsgrootte van een model.  Bovendien kunnen ze vlot verwijderd worden.  Je kan er dus nooit te veel aanmaken.)*
+Je maakt zoals gezegd best een scene aan van een zicht waarnaar je later wil terugkeren.
+Dit doe je als volgt:
+
+1.	Je opent het Scenes venster via Window > Scenes
+2.	Je creëert een zicht dat je wil bewaren
+3.	Je klikt op de “add page” knop:  
+{{AFBEELDING}}
+4.	“Scene 1” wordt nu aangemaakt, en verschijnt op 2 plekken:
+    1.	in een tab bovenaan het SketchUp modelleer venster
+    2.	in de lijst in het Scenes window
+
+{{AFBEELDING}}
+ 
+*(Let op: er wordt hierbij geen JPEG geëxporteerd!
+Dat doe je nog steeds via **file > export**)*
+
+## Reeds aangemaakte Scenes opnieuw activeren
+Om het zicht dat we als “Scene” bewaarden terug op te roepen, bestaan er 2 mogelijkheden:
+
+1.	één maal klikken op de Scene tab
+2.	dubbelklikken op de naam van de Scene in de lijst in het Scene window
+
+## Reeds aangemaakte Scenes ordenen, hernoemen, verwijderen
+Wordt mogelijk door rechts te klikken op de gewenste tab en move left/move right, rename of delete te kiezen.
+
+{{AFBEELDING}}
+
+## Reeds aangemaakte Scenes aanpassen
+1.	Aan te passen Scene activeren (op tab klikken)
+2.	Camera-instellingen, schaduw-instelingen, … wijzigen
+3.	Rechtsklikken op de Scene tab en update kiezen.
+
+---
+
+## Animatie
+We haalden net aan dat het mogelijk is om via **Window – Scenes** Scenes aan te maken, en op die manier visuele instellingen op te slaan (camerastandpunt, schaduwinstellingen, vlakweergave, …).
+
+De overgang tussen 2 Scenes wordt steeds geanimeerd.  Dit merk je als je van Scene wisselt (door op een van de Scene tabbladen te klikken).
+
+Je kan een volledige animatie (alle Scenes) afspelen door rechts te klikken op één van de tabbladen, en **PLAY ANIMATION** te kiezen:
+
+{{AFBEELDING}}
+
+*Tip: PAGE UP en PAGE DOWN zijn sneltoetsen om door alle verschillende Scenes te bladeren.*
+
+Het idee achter animatie is dus dat je voor elke fase van de animatie een verschillende scene aanmaakt.
+De animatie instellingen (de duur van de overgang tussen 2 scenes en de duur van de pauze per scene) stel je in via **View – Animation –Settings**.
+
+{{AFBEELDING}}
+
+Ten slotte: je kan een animatie exporteren via **File – Export – Animation**.
+
+---
+
+# Tekeningen organiseren in SketchUp – vervolg
+
+Eerder hadden we het over het werken met groepen (cursus deel 1, pagina 14).
+SketchUp bevat echter meer mogelijkheden om een tekening te organiseren:
+
+1.	Componenten
+2.	Lagen
+3.	De Outliner
+4.	Objecten verbergen
+5.	Objecten vergrendelen
+
+## 1. Componenten
+
+Componenten lijken op groepen, maar zijn veel krachtiger.
+
+Zodra een groep meerdere keren voorkomt in dezelfde tekening,
+Wordt het interessanter om er een component van te maken.
+(bijvoorbeeld: een raamkader dat verschillende keren voorkomt, een traptrede die 20 keer gekopieerd wordt, …).  
+De reden hiervoor is: wanneer een component aangepast wordt, worden ook alle kopieën van deze component automatisch aangepast.
+
+Als je bijvoorbeeld een trap van 90cm breed tekent, opgebouwd uit verschillende treden, en je bouwt deze op uit groepen, dan moet je wanneer je beslist om deze trap te verbreden, alle individuele groepen aanpassen.
+Als je dezelfde trap uit componenten opbouwde, moet je één trede aanpassen, waarna ze allemaal automatisch wijzigen…
+
+Bovendien kunnen componenten zich automatisch naar de camera richten, automatisch openingen in vlakken maken, zich automatisch vastzetten op een bepaald vlak, …
+
+{{AFBEELDING}} 
+ 
+Om een component aan te maken selecteer je eerst een aantal vlakken.  Vervolgens:
+* Kies je in het menu edit – make component
+* OF rechtsklik je op je selectie en kies je make component
+* OF gebruik je de sneltoets G
+
+Daarna verschijnt onderstaand venster:
+
+{{AFBEELDING}}
+
+Het belangrijkste dat je hier ingeeft is een naam. 
+Ook dit is een belangrijk verschil met groepen: componenten moeten een naam hebben.  Bij groepen was dit optioneel.
+
+Verder kan je ook een beschrijving ingeven.
+
+Onder alignment kan je een aantal geavanceerde opties instellen:  de component richt zich steeds naar de camera, …
+
+Tip: SketchUp maakt een bibliotheek aan van alle componenten die je aanmaakt.  Je kan deze bibliotheek gebruiken via **window – components**.  
+Deze bibliotheek bevat niet enkel de componenten die je zelf creëerde, maar ook een hele reeks standaard componenten.  
+Op internet kan je extra componenten (maar ook groepen en modellen) downloaden:
+http://sketchup.google.com/3dwarehouse/
+ 
+---
+
+## 2. Lagen
+
+Wie eerder met AutoCAD, Photoshop, Illustrator, … werkte zal dit concept zeker herkennen.
+
+De bedoeling van lagen is dat je gelijkaardige zaken in één laag gaat combineren.  Daarna wordt het mogelijk  bepaalde lagen uit te zetten.  Op die manier kan je in complexe modellen bepaalde details uitzetten, …
+
+De kracht van lagen ligt in het spelen met hun zichtbaarheid.
+
+Je op het layers venster via **window – layers**:
+
+{{AFBEELDING}}
+
+Dit venster verschijnt:
+
+{{AFBEELDING}}
+
+Standaard vind je hier echter enkel laag 0 terug.  Dit is dan ook een speciale laag.  Ze kan nooit verwijderd worden.
+
+In dit venster controleer je alle eigenschappen van de lagen:
+
+* je kan er hun zichtbaarheid wijzigen (visibility aan- of uitvinken)
+* je kan er hun naam veranderen (op de naam dubbelklikken)
+* je bepaalt er hun kleur, …
+
+Hier bepaal je ook welke laag actief is (aangeduid door een zwart puntje voor de naam van de laag).  Datgene wat je tekent komt steeds in de actieve laag te staan!
+
+Zaken die al getekend zijn kan je gelukkig achteraf van laag veranderen:
+
+Door rechts te klikken op een object, en **entity info** te kiezen.  In het venster dat  opent kan je de laag waarin het geselecteerde object moet komen te staan selecteren.
+
+{{AFBEELDING}}
+
+Ten slotte nog een tip: “color by layer” kleurt elk object op basis van de kleur van de laag waar het in staat.  Dit is erg handig om snel te zien welk object in welke laag staat.
+
+---
+
+## 3. De Outliner
+
+Via **window – outliner** open je dit venster:
+
+{{AFBEELDING}}
+
+Het komt er op neer dat de Outliner een abstractere manier is om naar modellen te kijken.  Alle groepen en componenten verschijnen in de Outliner, en kunnen geselecteerd worden, geopend worden, verborgen of zichtbaar gemaakt worden, …
+
+Je zal merken dat rechtsklikken op een object, of op de naam van een object in de Outliner dezelfde mogelijkheden biedt.
+
+*Tip:  de Outliner is enkel handig als je al je groepen een naam geeft: rechtsklikken – entity info.*
+
+---
+
+## 4. Objecten verbergen
+
+Door rechts te klikken op een object en **hide** te selecteren,
+wordt dit object tijdelijk verborgen.
+
+Dit doe je bijvoorbeeld om een dak tijdelijk te verbergen, een aantal zaken onder het dak aan te passen, en het dak daarna terug zichtbaar te maken.
+
+*(In de Outliner blijft een verborgen object wel staan, maar het symbool voor het object kleurt grijs.  Dit is zeer handig.  Op die manier zie je in de Outliner in één oogopslag welke objecten verborgen zijn, en welke niet.)*
+
+Om een object terug zichtbaar te maken, kies je via het menu **edit – unhide**.  Je kan er dan voor kiezen om het laatst verborgen object terug zichtbaar te maken (last), of om alle objecten terug zichtbaar te maken (all).
+
+*(Ook in de Outliner kan je rechtsklikken op een verborgen object, en unhide kiezen om het terug zichtbaar te maken…).*
+
+## 5. Objecten vergrendelen
+
+Vergrendelen is gelijkaardig aan verbergen.
+Je gebruikt deze functie om objecten te beveiligen tegen ongewilde wijzigingen.
+
+Toepassing: rechtsklikken op een object, en “lock” kiezen:
+
+{{AFBEELDING}}
+
+Nadat een object vergrendeld werd kan het niet meer aangepast, verplaatst, verwijderd, … worden.
+
+Wanneer je een vergrendeld object selecteert, verschijnt er een rode rand rond.  Een aanpassing proberen doorvoeren zal dan geen effect hebben.
+
+*(In de Outliner verschijnt er een sleutel icoontje voor een vergrendeld object.)*
+
+Vergrendelde objecten ontgrendelen werkt net als het terug zichtbaar maken van verborgen objecten.
+
+---
+
+# Terreinen modelleren met de Sandbox gereedschappen.
+
+De Sandbox gereedschappen zijn beschikbaar in de gratis versie van SketchUp,
+maar worden standaard niet ingeladen.
+
+Om ze voortaan wel in te laden, moet je onder **window - preferences - extensions** de **Sandbox gereedschappen** aanvinken.
+
+{{AFBEELDING}}
+
+Hierdoor krijg je toegang tot een reeks nieuwe gereedschappen:
+via het Tools menu (onderaan in dit menu zijn er een aantal sandbox opties bijgekomen),
+of via de Sandbox Toolbar (die eerst zichtbaar gemaakt moet worden: **view – tool  palettes - sandbox**).
+
+{{AFBEELDING}}
+
+Nu de gereedschappen beschikbaar zijn,
+kan je op 2 manieren werken:
+
+1.	op basis van hoogtelijnen = vooraf bepaald
+2.	op basis van een grid = interactief
+
+---
+
+## 1. Vooraf bepaald, op basis van hoogtelijnen
+
+Om een terrein aan te maken, gebaseerd op hoogtelijnen, ga je als volgt te werk:
+
+1.	Hoogtelijnen tekenen (line gereedschap, freehand gereedschap, ...).  Deze lijnen komen op het grondvlak te liggen.
+2.	Hoogtelijnen de juiste hoogte geven (=verplaatsen in de blauwe richting; boven of onder het grondvlak plaatsen).
+3.	 Door alle hoogtelijnen te selecteren, en op het FROM CONTOURS gereedschap te klikken, wordt een terrein aangemaakt. Dit terrein staat los van de getekende hoogtelijnen.  Deze mogen nadien zelfs verwijderd worden.
+
+{{AFBEELDING}}
+
+*Opmerking: Het terrein is een groep, met daarin een netwerk van driehoeken.*
+
+---
+
+## 2. Interactief, op basis van een grid
+
+Om een terrein interactief vorm te geven, vertrek je van een grid:
+
+1.  Klik hiervoor op het FROM SCRATCH gereedschap.  Rechts onder verschijnt de gridmaat. Deze bepaalt hoe gedetailleerd het terrein is, en kan je eventueel aanpassen (getal intypen).
+2.	Vervolgens moet je het grid uittekenen op het grondvlak.
+3.  Daarna kan je het grid beginnen aanpassen met het SMOOVE gereedschap.  
+Wel eerst dubbelklikken om binnen de groep (grid) te werken!  
+Met het SMOOVE gereedschap kan je heuvels en putten aanmaken.  
+Je kan de hoogte of diepte hiervan exact ingeven; de straal kan je ingeven zodra je het SMOOVE gereedschap aanklikt.
+
+{{AFBEELDING}} 	 
+
+*(dit is de makkelijkste manier van werken;
+een andere manier van werken is het wijzigen van het grid zonder het SMOOVE gereedschap te gebruiken:
+door op het grid te dubbelklikken, open je deze groep, en kan je manueel wijzigingen aanbrengen.
+Je kan eventueel extra detail toevoegen met de **ADD DETAIL** gereedschap, of diagonalen van richting veranderen met de **FLIP EDGE** gereedschap.)*
+
+---
+
+## 3. Objecten in het terrein stempelen
+
+De terreinen die met de sandbox gereedschappen aangemaakt worden zijn vaak erg onregelmatig.  Wanneer je hier een woning op probeert te plaatsen, is deze vaak voor een deel begraven, of zweeft ze vaak voor een deel:
+
+{{AFBEELDING}}
+
+Om dit te voorkomen kan je het STAMP gereedschap gebruiken:
+Dit gereedschap creëert een vlakke basis, waar de woning op geplaatst kan worden:
+
+1.  Selecteer het STAMP gereedschap
+2.  Selecteer het object dat je op het terrein wil plaatsen
+(hier rond verschijnt dan een rode rand: de rand die op het terrein gestempeld zal worden.)  
+{{AFBEELDING}}
+3.	Klik op het terrein waarop je het object wil plaatsen
+4.	Geef met de muisaanwijzer de hoogte van het vlak te maken deel aan  
+{{AFBEELDING}}
+5.	Verplaats het object (volgens de Z-as) om het op het vlak gemaakte deel te plaatsen.  
+{{AFBEELDING}}
+
+## 4. Objecten over het terrein leggen
+Objecten die geen vlakke ondergrond vereisen (bijvoorbeeld een weg die de glooiingen van het landschap volgt, …) kunnen over het terrein gelegd worden, in plaats van erin gestempeld.
+
+Hiervoor gebruik je het DRAPE gereedschap, en ga je als volgt te werk:
+
+1.  Teken de weg uit (ARC gereedschap, LINE gereedschap, …)  
+{{AFBEELDING}}
+2.  Positioneer de weg
+3.  Selecteer het DRAPE gereedschap
+4.  Klik een eerste maal op de weg die je op het terrein wil leggen
+5.  Klik een tweede maal op het terrein zelf  
+{{AFBEELDING}}
+ 
+De weg wordt nu op het terrein geprojecteerd.
+Dit is van belang als je texturen begint toe te kennen:  
+Door het terrein (=een groep) te openen (dubbelklikken),  
+kan elk vlak van het terrein een andere kleur krijgen. 
+
+---
+ 
+## 5. Tip: gridlijnen onzichtbaar maken
+
+Wanneer je een terrein aanmaakte op basis van een grid, blijft het grid steeds zichtbaar.
+Om dit grid onzichtbaar te maken, volg je deze stappen:
+
+1.	Het terrein (groep) openen: dubbelklikken
+2.	Alle elementen binnen deze groep selecteren
+3.	Rechtsklikken op deze selectie en SOFTEN/SMOOTH edges kiezen  
+{{AFBEELDING}}
+4.	“Smooth normals” en “soften coplanars” aanvinken  
+{{AFBEELDING}}
+5.	De graden-schuifbalk hoog genoeg instellen, zodat alle lijnen verdwijnen.  
+{{AFBEELDING}}
+
+---
+
+# Photo Match: modelleren op basis van een foto.
+
+Photo match wordt gebruikt om een object van een foto over te tekenen (ook wel Sketch Over genoemd).
+Photo match wordt onder meer gebruikt om gebouwen/bouwblokken in 3D te tekenen voor gebruik in Google Earth.
+
+## 1. Een foto in SketchUp invoegen
+
+De foto die we gaan gebruiken moet aan volgende eis voldoen:
+het gekozen object dient op een hoek gefotografeerd te zijn:
+minstens 2 zijden van het object moeten zichtbaar zijn.
+Frontale foto’s komen niet in aanmerking; enkel foto’s met perspectief.
+
+Werkwijze:
+
+Kies in het menu **Window - Match Photo**. Een nieuw venster (Sketch over) opent:
+
+{{AFBEELDING}}
+
+Het icoon in de linkerbovenhoek laat ons toe een foto te selecteren (New Matched Photo…).
+
+Wat je na het selecteren van een foto te zien krijgt ziet er als volgt uit:
+
+{{AFBEELDING}}
+ 
+## 2. Vluchtpunten/assen en oorsprong juist leggen
+
+Het is de bedoeling dat we SketchUp duidelijk maken hoe het perspectief in de foto loopt.  Hiervoor leg je de groene en rode assen op de vluchtlijnen van het gebouw.
+(voorbeeld: de nok van een dak, een dakgoot, de onderzijde van ramen, …).
+
+Dit doe je door de eindpunten van de rode en groene assen te verslepen.
+
+Het is verder de bedoeling dat je de oorsprong van het assenstelsel (geel rechthoekje) op een logische plaats positioneert: meestal een hoekpunt van het gebouw:
+
+{{AFBEELDING}}
+
+Ter controle: de gele lijn stelt de horizon voor, en moet dus min of meer horizontaal liggen…
+
+## 3. De schaal instellen en bevestigen dat alles werd ingesteld
+
+Door op de blauwe as te klikken en slepen verschaal je de foto
+(let op het schaalfiguurtje om de schaal correct in te stellen).
+
+Door op “Done” te klikken in het Match Photo venster, bevestig je dat je alle parameters instelde, en dat je wil beginnen modelleren.
+
+Tip: eventueel kan je ook een grid stijl kiezen:
+outside is standaard; als je met foto’s in vogelperspectief werkt, ga je voor above,
+bij interieurfoto’s voor inside.
+
+{{AFBEELDING}}
+
+---
+
+## 4. Modelleren
+
+We hebben het perspectief van een foto afgestemd op het perspectief in SketchUp.
+Nu kunnen we de teken gereedschappen (LINE, …) gebruiken om de foto over te tekenen.
+
+Opgelet: PhotoMatch werkt enkel voor één bepaald zicht (het ingestelde zicht).
+Als je roteert, verdwijnt de foto. PAN en ZOOM kan je wel gebruiken om het beeld te manipuleren zonder het ingestelde perspectief te verliezen.
+
+Tip: Uiteraard ben je al je instellingen nooit verloren.  Om het oorspronkelijke zicht terug op te roepen, klik je op de Scene Tab, bovenaan de 3D ruimte (deze kreeg de naam van de foto).
+
+## 5. Project textures from photo
+
+Door hierop te klikken, worden delen van de foto op het volume geprojecteerd (als textuur). Eenmaal de foto op het volume kleeft, kan je het ORBIT gereedschap wel gebruiken.

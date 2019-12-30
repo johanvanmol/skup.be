@@ -1,0 +1,18 @@
+--- 
+contenttype: portfolio
+layout: posts-portfolio
+title: Masterplan Deurne
+subtitle: 3D-visualisatie
+imgname: /assets/images/portfolio/deurne
+imgalt: SKUP portfolio afbeelding - Visualisatie Masterplan Deurne
+imgcount: 5
+featuredimg: 1
+---
+[Atelier JPLX][] is een Antwerps architectenbureau met een sterke focus op het ontwerp van de publieke ruimte.
+In 2009 organiseerde de stad Antwerpen een minicompetitie met drie kandidaten uit de pool van ontwerpers.
+Doel was een ontwerpvoorstel uit te werken, waarna de winnaar het masterplan verder mocht uitwerken.
+Atelier JPLX nam deel aan deze competitie, en SKUP werkte de 3D visualisaties uit.
+
+
+[Atelier JPLX]: http://jplx.be/HTML/home.html "Atelier JPLX"
+

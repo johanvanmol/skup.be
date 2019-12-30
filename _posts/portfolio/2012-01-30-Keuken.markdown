@@ -1,0 +1,14 @@
+--- 
+contenttype: portfolio
+layout: posts-portfolio
+title: Verbouwing keuken VHT
+subtitle: Visualisatie en ontwerpschets  
+imgname: /assets/images/portfolio/keuken
+imgalt: SKUP portfolio afbeelding - Visualisatie keuken
+imgcount: 5
+featuredimg: 5
+---
+De opdrachtgevers wilden hun keuken grondig verbouwen – meer lichtinval in de leefruimte en een groter werkblad om aan te koken waren de belangrijkste eisen. 
+
+Het ontwerp stelt volledig het tegengestelde van de huidige situatie voor.
+De ontwerpschets in 3D geeft een ruimtelijk beeld van de toekomstige keuken en functioneert zo als leidraad bij de verbouwingsplannen.

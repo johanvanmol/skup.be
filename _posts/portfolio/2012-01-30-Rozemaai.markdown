@@ -1,0 +1,20 @@
+--- 
+contenttype: portfolio
+layout: posts-portfolio
+title: Sociale nieuwbouw appartementen Rozemaai, Ekeren
+subtitle: 3D-visualisatie
+imgname: /assets/images/portfolio/rozemaai
+imgalt: SKUP portfolio afbeelding - Visualisatie Rozemaai, Ekeren
+imgcount: 5
+featuredimg: 4
+---
+Rozemaai is een woonwijk ten noorden van Antwerpen, die aansluit bij Ekeren.
+[DMT architecten][] werkte tussen 2003 en 2007  aan het ontwerp en de realisatie van 2 sociale appartementsgebouwen in deze wijk.
+SKUP verzorgde de visualisatie van deze sociale nieuwbouwappartementen.
+De visualisaties die destijds door ons gemaakt werden zijn nog steeds te bewonderen [op de website van DMT architecten][].
+
+
+[DMT architecten]: http://www.dmtarchitecten.be/NL/home.htm "DMT architecten"
+[op de website van DMT architecten]: http://www.dmtarchitecten.be/NL/PROJ-opdrwon-nieuwbouw.htm# "DMT architecten - Rozemaai"
+
+
