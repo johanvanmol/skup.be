@@ -4,6 +4,7 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            
 url:                "https://vibrant-ramanujan-62b820.netlify.com/"
+permalink:          /:title.html
 
 # Social Profiles
 twitter_username:   SBootstrap
