@@ -1,0 +1,11 @@
+---
+layout: home
+title: Pagina bestaat niet (meer)
+background: '/img/bg-index.jpg'
+---
+# Helaas, deze pagina bestaat niet (meer)
+
+Gebruik het menu bovenaan deze pagina,
+of [contacteer Skup][].
+
+[contacteer Skup]: contact.html "Contacteer Skup"
