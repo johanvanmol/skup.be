@@ -32,6 +32,34 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
+          <ul class="media-grid">
+        
+              <!-- jQuery -->
+              
+              <div class="slideshow">
+              
+              {% for i in (1..page.imgcount) %}
+               <li>
+                     <img class="portfolio-image" src="{{page.imgname}}_{{i}}_570.jpg" alt="{{page.imgalt}} - {{i}}">
+                  </li>
+               {% endfor %}
+      
+          </div>
+              
+              <!-- jQuery -->
+      
+            </ul>
+            <ul class="media-grid">
+              {% for i in (1..page.imgcount) %}
+               <li>
+                  <a href="#" id="goto{{i}}">
+                    <img class="thumbnail" src="{{page.imgname}}_{{i}}_90.jpg" alt="{{page.imgalt}} - {{i}}">
+                  </a>
+                  </li>
+               {% endfor %}
+       
+            </ul>
+
         {{ content }}
 
         <hr>
