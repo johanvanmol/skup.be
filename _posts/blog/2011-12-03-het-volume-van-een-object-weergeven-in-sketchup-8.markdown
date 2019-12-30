@@ -15,7 +15,7 @@ deze versie kan je gewoon **rechtsklikken op een object**, en het
 **Entity Info venster** openen. In dit venster wordt het **volume** als
 één van de eigenschappen weergegeven.
 
-![00\_volume][]
+![00-volume][]
 
 Dit lijkt niet meteen voer voor een nieuw artikel. Toch kan het handig
 zijn alle **aandachtspunten** even te overlopen:
@@ -34,43 +34,35 @@ zijn alle **aandachtspunten** even te overlopen:
 	-	Belangrijk: de groep of component mag geen:
 		-   openingen bevatten (vermijd ontbrekende vlakken)
 		
-		![01\_opening][]
+		![01-opening][]
 		
 		-   verdwaalde of overtollige lijnen bevatten (zogenaamde *“stray lines”*)
     
-    	![02\_overtollig][]
+    	![02-overtollig][]
     
 		-   overtollige verborgen geometrie bevatten (vink in het **View menu** de optie \*\*Hidden Geometry\*\* aan, om eventuele verborgen geometrie zichtbaar te maken)
 		
-		![03\_verborgen][]
+		![03-verborgen][]
 		
 		-   overlappende elementen bevatten
 		
-		![04\_overlappend][]
+		![04-overlappend][]
 
 Samengevat kan je het volume van een object sinds SketchUp 8 gewoon
 aflezen in het Entity Info venster. Wanneer dit niet lukt, selecteerde
 je waarschijnlijk geen solid (vaste vorm), en kan je bovenstaande
-aandachtspunten best even overlopen. Wie wil, kan dit alles ook nog even
-bekijken in onderstaand YouTube filmpje: "Google SketchUp 8: Solid
-Tools“.
-
-<object style="height: 288px; width: 430px;" width="640" height="360" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://www.youtube.com/v/TAS1EVOvDMo?version=3&amp;feature=player_detailpage"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed style="height: 288px; width: 430px;" width="640" height="360" type="application/x-shockwave-flash" src="http://www.youtube.com/v/TAS1EVOvDMo?version=3&amp;feature=player_detailpage" allowfullscreen="true" allowscriptaccess="always" allowfullscreen="true" allowscriptaccess="always"></embed></object>
-
-Enkel het eerst deel gaat over volumes. Het tweede deel gaat over de
-”solid tools", die wellicht in een toekomstig artikel op SKUP aan bod
-zullen komen.
+aandachtspunten best even overlopen.
 
 [SketchUp hiervoor uitbreiden met een script]: http://www.skup.be/volumes-berekenen-in-sketchup-2/ "Volumes berekenen in SketchUp"
 
 
 
-[00\_volume]: /assets/images/blog/00_volume.jpg "00_volume"
+[00-volume]: /assets/images/blog/00_volume.jpg "00_volume"
 
-[01\_opening]: /assets/images/blog/01_opening.jpg "01_opening"
+[01-opening]: /assets/images/blog/01_opening.jpg "01_opening"
 
-[02\_overtollig]: /assets/images/blog/02_overtollig.jpg "02_overtollig"
+[02-overtollig]: /assets/images/blog/02_overtollig.jpg "02_overtollig"
 
-[03\_verborgen]: /assets/images/blog/03_verborgen.jpg "03_verborgen"
+[03-verborgen]: /assets/images/blog/03_verborgen.jpg "03_verborgen"
 
-[04\_overlappend]: /assets/images/blog/04_overlappend.jpg "04_overlappend"
+[04-overlappend]: /assets/images/blog/04_overlappend.jpg "04_overlappend"

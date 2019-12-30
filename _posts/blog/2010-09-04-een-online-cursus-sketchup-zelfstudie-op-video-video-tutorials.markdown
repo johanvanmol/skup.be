@@ -15,7 +15,7 @@ hiervoor de redenen. Daarom volgende inhaalslag: vandaag begin ik aan
 een nieuwe reeks, waarin ik gedurende 6 weken een overzicht zal bieden
 van de beste videotraining die beschikbaar is voor Google SketchUp.
 
-![Videotutorials\_sketchup][]
+![Videotutorials-sketchup][]
 
 Wie met SketchUp wil leren werken, zonder daarvoor een cursus bij te
 wonen, heeft verschillende opties. Je kan natuurlijk een SketchUp boek
@@ -31,5 +31,5 @@ tutorials. In deze reeks artikelen wil ik een overzicht bieden van het
 reeds bestaande trainingsmateriaal. Volgende week deel 1: de zelfstudie
 op video op de officiële Google SketchUp website.
 
-[Videotutorials\_sketchup]: /assets/images/blog/Videotutorials_icoon.png "Videotutorials_sketchup"
+[Videotutorials-sketchup]: /assets/images/blog/Videotutorials_icoon.png "Videotutorials_sketchup"
 

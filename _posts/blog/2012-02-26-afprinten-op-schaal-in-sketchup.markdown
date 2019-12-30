@@ -12,7 +12,7 @@ Hoewel dit perfect mogelijk is met de gratis versie van SketchUp, is dit veel ma
 SketchUp Pro bevat namelijk een extra hulpprogramma, [Layout][], dat specifiek ontworpen werd om ontwerppresentaties te maken, waaronder prints op schaal.
 In Layout volstaat het rechts te klikken op een ingeladen 3D beeld, en in het context menu de gewenste schaal te kiezen onder "Scale".
 
-![layout\_scale][]
+![layout-scale][]
 
 Wanneer je niet wil investeren in SketchUp Pro (en Layout), en hetzelfde wil bereiken in de gratis versie van SketchUp, moet je op voorhand enkele zaken weten:
 
@@ -28,7 +28,7 @@ Het is niet mogelijk om een perspectieftekening op schaal af te drukken.  Enkel 
 Om het hierboven aangemaakte zicht op schaal af te printen werk je via het File menu: **File > Print….**
 (Op een Mac: **File > Document Setup...**)
 
-![sketchup\_printdialog][]
+![sketchup-printdialog][]
 
 Vooral de instellingen onder **“Print Size”** zijn van belang:
 
@@ -50,7 +50,7 @@ Conclusie: afdrukken op schaal is mogelijk met de gratis versie van SketchUp, ma
 
 
 
-[layout\_scale]: /assets/images/blog/layout_scale.png "Google SketchUp Pro - Layout - Scale instellen"
+[layout-scale]: /assets/images/blog/layout_scale.png "Google SketchUp Pro - Layout - Scale instellen"
 
-[sketchup\_printdialog]: /assets/images/blog/sketchup_printdialog.png "Google SketchUp  - Print dialoogvenster"
+[sketchup-printdialog]: /assets/images/blog/sketchup_printdialog.png "Google SketchUp  - Print dialoogvenster"
 

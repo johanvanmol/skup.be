@@ -2,7 +2,7 @@
 contenttype: blog
 wordpress_id: 371
 layout: posts-blog
-title: "SketchUp idee\xC3\xABn"
+title: "SketchUp ideeën"
 date: 2009-10-02 23:05:44 +02:00
 wordpress_url: http://www.skup.be/?p=371
 featuredimg: /assets/images/blog/Product-Ideas.jpg
