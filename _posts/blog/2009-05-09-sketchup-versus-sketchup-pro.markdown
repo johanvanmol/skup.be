@@ -17,11 +17,7 @@ er uiteraard op neer dat de Pro versie meer te bieden heeft:
 -   Verder kan je in de Pro versie (en dit is nieuw sinds versie 7)
     **intelligente componenten** (*Dynamic Components*) **aanmaken**.
     Let op: ik zeg *aanmaken*. Je kan reeds aangemaakte intelligente
-    componenten wel gewoon *gebruiken* in de standaard SketchUp versie.
-    Meer over intelligente componenten in onderstaand filmpje:
-    
-    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="405" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/4aVW5X-tb8s&amp;hl=nl&amp;fs=1"></param><param name="allowfullscreen" value="true"></param><embed type="application/x-shockwave-flash" width="405" height="344" src="http://www.youtube.com/v/4aVW5X-tb8s&amp;hl=nl&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-    
+    componenten wel gewoon *gebruiken* in de standaard SketchUp versie.    
 -   De Pro versie biedt ook meer **exporteer mogelijkheden**: je kan
     ermee exporteren naar AutoCAD (*DWG bestanden*), of naar andere 3D
     programma’s (*3DS bestanden*) - bijvoorbeeld om een model achteraf

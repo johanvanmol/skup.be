@@ -23,8 +23,7 @@ laten maken (=*hobby*). Daarom zijn alle modelleer gereedschappen uit de
 pro versie ook beschikbaar in de gratis versie. De **pro versie** gaat
 verder dan enkel modelleren: in de deze versie is het ook mogelijk om te
 presenteren, te analyseren, modellen te importeren/exporteren, …
-(=*zakelijk gebruik*). ([een volledig overzicht van de verschillen
-tussen de gratis versie en de pro versie vind je hier.][]) Google is
+(=*zakelijk gebruik*). ([een volledig overzicht van de verschillen tussen de gratis versie en de pro versie vind je hier.][]) Google is
 echter tot het inzicht gekomen dat ook hobby-gebruikers meer willen doen
 met hun modellen (renders maken, …) en heeft daarom besloten om ook de
 gratis SketchUp versie van exporteer mogelijkheden te voorzien. Ze gaan

@@ -18,7 +18,7 @@ toetsenbord ingedrukt:
 -   de **OPTION** (alt) toets als je een **Mac** gebruiker bent
 -   de **CTRL** toets als je een **Windows** gebruiker bent
 
-![skp-reeksen\_basis][]
+![skp-reeksen-basis][]
 *(Een staafje, gekopieerd over een afstand van 10 meter.)*
 
 Kopiëren is basiskennis. Als je een stap verder wil gaan, kan je heel eenvoudig **meervoudige
@@ -32,7 +32,7 @@ totaal nodig hebt:
     staan telkens 10 meter van elkaar. Deze reeksen worden ook wel
     **externe reeksen** genoemd.
 
-![skp-reeksen\_extern][]
+![skp-reeksen-extern][]
 *(Een externe reeks. Meteen na het kopiëren werd "x5" ingetypt.)*
 
 -   De vorige naam deed het al vermoeden: er bestaan ook
@@ -43,7 +43,7 @@ totaal nodig hebt:
     binnen de oorspronkelijk 10 meter: er bevindt zich nu dus een kopie
     om de 2 meter.
 
-![skp-reeksen\_intern][]
+![skp-reeksen-intern][]
 *(Een interne reeks. Meteen na het kopiëren werd "/5" ingetypt.)*
 
 
@@ -53,14 +53,10 @@ roteert en tegelijk OPTION of CTRL ingedrukt houdt, bekom je een kopie.
 Door meteen daarna “x” of “/” -gevolgd door een aantal- in te typen,
 creëer je een reeks.* Tip: aangezien we bij het creëren van reeksen
 steeds **meerdere kopieën van een zelfde object** maken, is het het
-slimst om dit object op voorhand om te zetten in een **component**. Om
-af te sluiten weer een video tutorial waarin je dit alles kan bekijken:
+slimst om dit object op voorhand om te zetten in een **component**.
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="430" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/Yk6ok7S8goA&amp;hl=nl&amp;fs=1"></param><param name="allowfullscreen" value="true"></param><embed type="application/x-shockwave-flash" width="430" height="344" src="http://www.youtube.com/v/Yk6ok7S8goA&amp;hl=nl&amp;fs=1" allowscriptaccess="always" allowfullscreen="true">
-</embed></object>
+[skp-reeksen-basis]: /assets/images/blog/skp-reeksen_basis.jpg "skp-reeksen_basis"
 
-[skp-reeksen\_basis]: /assets/images/blog/skp-reeksen_basis.jpg "skp-reeksen_basis"
+[skp-reeksen-extern]: /assets/images/blog/skp-reeksen_extern.jpg "skp-reeksen_extern"
 
-[skp-reeksen\_extern]: /assets/images/blog/skp-reeksen_extern.jpg "skp-reeksen_extern"
-
-[skp-reeksen\_intern]: /assets/images/blog/skp-reeksen_intern.jpg "skp-reeksen_intern"
+[skp-reeksen-intern]: /assets/images/blog/skp-reeksen_intern.jpg "skp-reeksen_intern"
