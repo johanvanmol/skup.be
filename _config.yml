@@ -7,7 +7,7 @@ url:                "https://vibrant-ramanujan-62b820.netlify.com/"
 permalink:          /:title.html
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-242911-5 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
