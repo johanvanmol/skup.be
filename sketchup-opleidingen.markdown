@@ -1,5 +1,5 @@
 ---
-layout: pages-markdown-metRechterkolom
+layout: page
 title: SketchUp opleidingen
 ---
 

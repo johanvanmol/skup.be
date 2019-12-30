@@ -1,5 +1,5 @@
 ---
-layout: pages-markdown-metRechterkolom
+layout: page
 title: wat we doen
 ---
 # Wat we doen
