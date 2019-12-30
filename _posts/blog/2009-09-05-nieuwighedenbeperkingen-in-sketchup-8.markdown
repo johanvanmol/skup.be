@@ -61,7 +61,7 @@ mogelijk vergeten… Benieuwd wat jullie ervan denken…
 
 [SketchUp]: http://sketchup.google.com/ "Google SketchUp"
 
-[overzicht]: http://www.skup.be/sketchup-versus-sketchup-pro/ "SketchUp versus SketchUp Pro | SKUP - een Nederlandstalige blog over Google SketchUp."
+[overzicht]: http://www.skup.be/sketchup-versus-sketchup-pro/ "SketchUp versus SketchUp Pro"
 
 [COLLADA]: https://collada.org/mediawiki/index.php/COLLADA_-_Digital_Asset_and_FX_Exchange_Schema "COLLADA"
 
@@ -69,12 +69,10 @@ mogelijk vergeten… Benieuwd wat jullie ervan denken…
 
 [DXF]: http://en.wikipedia.org/wiki/AutoCAD_DXF "Wikipedia - DXF"
 
-[omweg]: http://www.skup.be/3d-modellen-exporteren-zonder-sketchup-pro-aan-te-schaffen/ "3D modellen exporteren zonder SketchUp Pro aan te schaffen | SKUP - een Nederlandstalige blog over Google SketchUp."
+[omweg]: http://www.skup.be/3d-modellen-exporteren-zonder-sketchup-pro-aan-te-schaffen/ "3D modellen exporteren zonder SketchUp Pro"
 
 [serieus genomen]: https://collada.org/mediawiki/index.php/Portal:Products_directory "COLLADA Products Directory"
 
 [Autodesk]: http://www.autodesk.com/siteselect.htm "Autodesk"
-
-
 
 [COLLADA ipv DWG]: /assets/images/blog/COLLADA_ipv_DWG.jpg "COLLADA ipv DWG"
