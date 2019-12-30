@@ -23,7 +23,7 @@ laten maken (=*hobby*). Daarom zijn alle modelleer gereedschappen uit de
 pro versie ook beschikbaar in de gratis versie. De **pro versie** gaat
 verder dan enkel modelleren: in de deze versie is het ook mogelijk om te
 presenteren, te analyseren, modellen te importeren/exporteren, …
-(=*zakelijk gebruik*). ([een volledig overzicht van de verschillen tussen de gratis versie en de pro versie vind je hier.][]) Google is
+(=*zakelijk gebruik*). (een volledig [overzicht][] van de verschillen tussen de gratis versie en de pro versie vind je hier.) Google is
 echter tot het inzicht gekomen dat ook hobby-gebruikers meer willen doen
 met hun modellen (renders maken, …) en heeft daarom besloten om ook de
 gratis SketchUp versie van exporteer mogelijkheden te voorzien. Ze gaan
@@ -39,7 +39,7 @@ importeren in de gratis SketchUp versie.
 Tot zover het nieuws. De vraag is wat we hiervan moeten denken… Het feit
 dat SketchUp modellen voortaan vlotter uitwisselbaar worden door ze naar
 COLLADA te kunnen exporteren is goed nieuws, ware het niet dat dit
-eigenlijk al mogelijk is [via een omweg][]. Het feit dat Google steeds
+eigenlijk al mogelijk is via een [omweg][]. Het feit dat Google steeds
 meer inzet op COLLADA, en het feit dat dit formaat ook bij andere 3D
 bedrijven [serieus genomen][] wordt, is uiteraard ook goed nieuws. Lang
 leve open bestandsformaten: vlot uitwisselbare bestanden, niet gebonden
@@ -61,7 +61,7 @@ mogelijk vergeten… Benieuwd wat jullie ervan denken…
 
 [SketchUp]: http://sketchup.google.com/ "Google SketchUp"
 
-[een volledig overzicht van de verschillen tussen de gratis versie en de pro versie vind je hier.]: http://www.skup.be/sketchup-versus-sketchup-pro/ "SketchUp versus SketchUp Pro | SKUP - een Nederlandstalige blog over Google SketchUp."
+[overzicht]: http://www.skup.be/sketchup-versus-sketchup-pro/ "SketchUp versus SketchUp Pro | SKUP - een Nederlandstalige blog over Google SketchUp."
 
 [COLLADA]: https://collada.org/mediawiki/index.php/COLLADA_-_Digital_Asset_and_FX_Exchange_Schema "COLLADA"
 
@@ -69,7 +69,7 @@ mogelijk vergeten… Benieuwd wat jullie ervan denken…
 
 [DXF]: http://en.wikipedia.org/wiki/AutoCAD_DXF "Wikipedia - DXF"
 
-[via een omweg]: http://www.skup.be/3d-modellen-exporteren-zonder-sketchup-pro-aan-te-schaffen/ "3D modellen exporteren zonder SketchUp Pro aan te schaffen | SKUP - een Nederlandstalige blog over Google SketchUp."
+[omweg]: http://www.skup.be/3d-modellen-exporteren-zonder-sketchup-pro-aan-te-schaffen/ "3D modellen exporteren zonder SketchUp Pro aan te schaffen | SKUP - een Nederlandstalige blog over Google SketchUp."
 
 [serieus genomen]: https://collada.org/mediawiki/index.php/Portal:Products_directory "COLLADA Products Directory"
 
