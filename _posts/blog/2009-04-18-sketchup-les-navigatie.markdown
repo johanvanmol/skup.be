@@ -57,12 +57,6 @@ lijn aan het tekenen bent kan je tussendoor navigeren zonder dat het
 tekenen beëindigd wordt. (Extra tip: dubbelklikken met de middelste
 muisknop centreert je tekening op het punt waar je dubbelklikt.)
 
-### Filmpje
-
-Je kan dit alles bekijken in onderstaande video tutorial:
-
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="430" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/hc4TeDuEbfU&amp;hl=nl&amp;fs=1"></param><param name="allowfullscreen" value="true"></param><embed type="application/x-shockwave-flash" width="430" height="344" src="http://www.youtube.com/v/hc4TeDuEbfU&amp;hl=nl&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
 [SKUP]: http://www.skup.be "SKUP"
 
 

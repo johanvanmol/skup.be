@@ -63,7 +63,7 @@ soorten hulplijnen tekenen:
     een derde keer te klikken om de hoekverdraaiing van deze richting
     aan te geven. De hulplijn komt op de ingegeven hoek te liggen.
     
-    ![tape\_measure-protractor][]
+    ![tape-measure-protractor][]
 
 ### 3. Wat maakt hulplijnen speciaal?
 
@@ -84,9 +84,7 @@ hun positie nauwkeurig bepalen door een exact waarde in te typen, …
 ### 5. Conclusie.
 
 Je kan dit alles nog eens [nalezen][] (in het Engels) op Google’s
-SketchUp Help site of herbekijken in onderstaande video tutorial:
-
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="430" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/9PnkmRFqTfc&amp;hl=nl&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="430" height="344" src="http://www.youtube.com/v/9PnkmRFqTfc&amp;hl=nl&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+SketchUp Help site.
 
 [nalezen]: http://sketchup.google.com/support/bin/answer.py?hl=en&answer=44291 "SketchUp Help - Guides"
 
@@ -94,4 +92,4 @@ SketchUp Help site of herbekijken in onderstaande video tutorial:
 
 [grid-guides]: /assets/images/blog/grid-guides.jpg "grid-guides"
 
-[tape\_measure-protractor]: /assets/images/blog/tape_measure-protractor.jpg "tape_measure-protractor"
+[tape-measure-protractor]: /assets/images/blog/tape_measure-protractor.jpg "tape_measure-protractor"
